@@ -24,7 +24,7 @@ cokbrut=[]
 ses=requests.Session()
 ugen=[]
 uas=[]
-for gx in range(10000):
+for gx in range(5000):
 	a='Mozilla/5.0 (Linux; Android'
 	b=random.choice(['5.0.2','6.0.1','5.1.1','5.0.1','5.0','10','11','12','13','14','15'])
 	c='SAMSUNG SM-A500FU Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/'
@@ -141,7 +141,7 @@ def fuck():
         tl = str(len(user))
         print('\033[1;37m[\033[1;32m✓\033[1;32m] SIM CODE : '+nude)
         print('\033[1;37m[\033[1;32m✓\033[1;32m] SOME ID,S WAS LOCKED ')
-        print('\033[1;37m[\033[1;32m✓\033[1;32m] TOOL CREATED BY TURAG JOIN MY GROUP ')
+        print('\033[1;37m[\033[1;32m✓\033[1;32m] TOOL CREATED BY NIHAN JOIN MY GROUP ')
         print('\033[1;37m[\033[1;32m✓\033[1;32m] TOTAL ID : '+tl)
         print('\033[1;32m─────────────────────────────────────────────────────────')
         for guru in user:
